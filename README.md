@@ -11,6 +11,7 @@ Mitarbeiter im Scanzentrum – Oberfinanzamt BW, Karlsruhe (seit 07/2026)
     Überbrückungstätigkeit nach dem Masterabschluss
 
 Praktikant im Controlling – S-Management Services, Stuttgart (04/2025 – 09/2025)
+
     Erstellung und Analyse regelmäßiger Umsatz- und Sortimentsreports
     Unterstützung beim Monatsabschluss sowie Prozessoptimierung
     Analyse von Personal- und Liquiditätskennzahlen
@@ -62,9 +63,10 @@ Finance / Controlling
 IT & Tools
 
     Microsoft Office (fortgeschritten, insbesondere Excel)
-    SAP S/4HANA & Analysis for Office
+    SAP BW S/4HANA & Analysis for Office
     SAP BPC (Business Planning and Consolidation)
     SQL & Power BI (in Lernphase)
+	Trello
 
 🌍 Sprachen
 
