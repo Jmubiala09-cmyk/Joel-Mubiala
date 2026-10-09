@@ -33,7 +33,7 @@ Erstellung von Reports und Analysen
 
 ## Ausbildung
 	
-** Johannes-Gutenberg-Universität Mainz
+**- Johannes-Gutenberg-Universität Mainz
 Abschluss : M.Sc. Accounting and Finance (Schwerpunkt: Finance & Controlling)
 Masterarbeit : strategisches HR-Controlling und Mitarbeiterwohlbefinden
 10/2022 – 03/2026
@@ -56,7 +56,7 @@ Bachelorarbeit : Apport des apports des assurances au développement socio-écon
 10/2013 – 09/2018
 	
  
-# # Skills & Tools
+## Skills & Tools
 
 Finance / Controlling
 
@@ -69,7 +69,7 @@ Darstellung und Analyse der Personalkennzahl;
 Betreuung eines Projektes;
 Benutzung von komplexen Formeln mit Excel.
 
-# # IT & Tools
+## IT & Tools
 
 Microsoft Office (fortgeschritten, insbesondere Excel);
 SAP BW S/4HANA & Analysis for Office;
@@ -79,7 +79,7 @@ Trello;
 IT-Affinität;
 CSS und HTML-Kenntnisse   
 
-# # Sprachen
+## Sprachen
 
 Französisch – Muttersprache
 Deutsch – fließend
