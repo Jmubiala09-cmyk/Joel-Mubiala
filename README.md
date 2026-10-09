@@ -63,7 +63,7 @@ B.Sc. Finanz- und Bankwesen
 
 **Finance / Controlling**
 
-Erstellung vom Umsatz-, Sortiments- und Personalreports;
+- **Erstellung vom Umsatz-, Sortiments- und Personalreports**
 Erstellung  Forecast-Berechnungen;
 Darstellung und Analyse des Liquiditätsverlaufs; 
 Erstellung Plan-Ist-Vergleiche und Kommentierung;
@@ -74,14 +74,6 @@ Benutzung von komplexen Formeln mit Excel.
 
 ## IT & Tools
 
--Microsoft Office (fortgeschritten, insbesondere Excel);
--SAP BW S/4HANA & Analysis for Office;
--SAP BPC (Business Planning and Consolidation);
--SQL & Power BI (in Lernphase)
--Trello;
--IT-Affinität;
--CSS und HTML-Kenntnisse   
-
 - Microsoft Office (fortgeschritten, insbesondere **Excel**)
 - **SAP S/4HANA** & Analysis for Office
 - **SAP BPC** (Business Planning and Consolidation)
@@ -91,9 +83,9 @@ Benutzung von komplexen Formeln mit Excel.
 
 ## Sprachen
 
-- 🇫🇷 **Französisch** – Muttersprache
-- 🇩🇪 **Deutsch** – fließend
-- 🇬🇧 **Englisch** – gut
+-  **Französisch** – Muttersprache
+- **Deutsch** – fließend
+- **Englisch** – gut
 
  ## Kontakt
 
