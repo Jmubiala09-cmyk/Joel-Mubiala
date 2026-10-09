@@ -1,5 +1,5 @@
-# Joel Mubiala
-Portfolio Finance, Controlling
+# Joel Mubiala Lubuma
+Portfolio Finance analyst, Controller
 
 Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem Bachelor im Finanz- und Bankwesen aus dem Kongo habe ich meinen Weg in Deutschland fortgesetzt. von Deutschkursen an der Ruprecht-Karls-Universität Heidelberg  zum M.Sc. in Accounting and Finance an der Johannes-Gutenberg-Universität Mainz.
 
@@ -36,8 +36,8 @@ Ausbildung
 Johannes-Gutenberg-Universität Mainz
 
 Abschluss : M.Sc. Accounting and Finance (Schwerpunkt: Finance & Controlling)
-
 Masterarbeit : strategisches HR-Controlling und Mitarbeiterwohlbefinden
+
 10/2022 – 03/2026
 	
 
@@ -68,23 +68,23 @@ Skills & Tools
 
 Finance / Controlling
 
-    Erstellung vom Umsatz-, Sortiments- und Personalreports
-    Erstellung  Forecast-Berechnungen
-	Darstellung und Analyse des Liquiditätsverlaufs 
-    Erstellung Plan-Ist-Vergleiche und Kommentierung
-	Berichtsautomatisierung anhand von SAP und Excel
-	Darstellung und Analyse der Personalkennzahl
-	Betreuung eines Projektes
-	Benutzung von komplexen Formeln mit Excel
+    Erstellung vom Umsatz-, Sortiments- und Personalreports;
+    Erstellung  Forecast-Berechnungen;
+	Darstellung und Analyse des Liquiditätsverlaufs; 
+    Erstellung Plan-Ist-Vergleiche und Kommentierung;
+	Berichtsautomatisierung anhand von SAP und Excel;
+	Darstellung und Analyse der Personalkennzahl;
+	Betreuung eines Projektes;
+	Benutzung von komplexen Formeln mit Excel.
 
 IT & Tools
 
-    Microsoft Office (fortgeschritten, insbesondere Excel)
-    SAP BW S/4HANA & Analysis for Office
-    SAP BPC (Business Planning and Consolidation)
+    Microsoft Office (fortgeschritten, insbesondere Excel);
+    SAP BW S/4HANA & Analysis for Office;
+    SAP BPC (Business Planning and Consolidation);
     SQL & Power BI (in Lernphase)
-	Trello
-	IT-Affinität
+	Trello;
+	IT-Affinität;
 	CSS und HTML-Kenntnisse   
 
 Sprachen
