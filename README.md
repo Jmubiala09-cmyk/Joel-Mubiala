@@ -5,7 +5,7 @@ Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem
 
 Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzahlen analysieren, Forecasts rechnen und gemeinsam mit Fachabteilungen bessere Prozesse gestalten.
 
-💼 Berufserfahrung
+Berufserfahrung
 
 Mitarbeiter im Scanzentrum – Oberfinanzamt BW, Karlsruhe (seit 07/2026)
     Überbrückungstätigkeit nach dem Masterabschluss
@@ -13,8 +13,11 @@ Mitarbeiter im Scanzentrum – Oberfinanzamt BW, Karlsruhe (seit 07/2026)
 Praktikant im Controlling – S-Management Services, Stuttgart (04/2025 – 09/2025)
 
     Erstellung und Analyse regelmäßiger Umsatz- und Sortimentsreports
+	
     Unterstützung beim Monatsabschluss sowie Prozessoptimierung
+	
     Analyse von Personal- und Liquiditätskennzahlen
+	
     Plan-Ist-Vergleiche, Ad-hoc-Analysen und Forecast-Berechnungen
 
 Werkstudent im Accounting & Finance – Nord-Micro, Frankfurt am Main (03/2024 – 03/2025)
@@ -23,7 +26,7 @@ Werkstudent im Accounting & Finance – Nord-Micro, Frankfurt am Main (03/2024 �
     Bearbeitung von Mahnungen und Rechnungsklärung
     Erstellung von Reports und Analysen
 
-🎓 Ausbildung
+Ausbildung
 	
 Johannes-Gutenberg-Universität Mainz
 
@@ -52,7 +55,7 @@ B.Sc. Finanz- und Bankwesen
 
 	 
  
-🛠️ Skills & Tools
+Skills & Tools
 
 Finance / Controlling
 
@@ -68,7 +71,7 @@ IT & Tools
     SQL & Power BI (in Lernphase)
 	Trello
 
-🌍 Sprachen
+Sprachen
 
     🇫🇷 Französisch – Muttersprache
     🇩🇪 Deutsch – fließend
