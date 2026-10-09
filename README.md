@@ -24,12 +24,12 @@ Sparringspartner der Fachabteilungen
 
 Werkstudent im Accounting & Finance – Nord-Micro, Frankfurt am Main (03/2024 – 03/2025)
 
-Erstellung und Senden von Kundenrechnungen;
-Unterstützung im Produktions- und Sales-Controlling;
-Bearbeitung von Mahnungen und Rechnungsklärung;
-Abgleich von eingehenden Bankzahlungen auf offene Rechnungen;
-Beilegung von Abrechnungsunstimmigkeiten mit Kunden;
-Erstellung von Reports und Analysen
+-Erstellung und Senden von Kundenrechnungen;
+-Unterstützung im Produktions- und Sales-Controlling;
+-Bearbeitung von Mahnungen und Rechnungsklärung;
+-Abgleich von eingehenden Bankzahlungen auf offene Rechnungen;
+-Beilegung von Abrechnungsunstimmigkeiten mit Kunden;
+-Erstellung von Reports und Analysen
 
 ## Ausbildung
 	
