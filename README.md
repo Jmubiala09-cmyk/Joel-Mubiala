@@ -43,7 +43,6 @@ Université de Lille (Auslandssemester)
 Schwerpunkte: Controlling, Wirtschaftsprüfung
 09/2024 – 01/2025
 	
-
 	
 TU Kaiserslautern
 B.Sc. Betriebswirtschaftslehre (Vorkursen)
@@ -81,9 +80,9 @@ CSS und HTML-Kenntnisse
 
 ## Sprachen
 
-Französisch – Muttersprache
-Deutsch – fließend
-Englisch – gut
+– Französisch – Muttersprache
+– Deutsch – fließend
+– Englisch – gut
 
  Kontakt
 
