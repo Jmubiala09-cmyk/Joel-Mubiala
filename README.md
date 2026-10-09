@@ -86,6 +86,8 @@ Benutzung von komplexen Formeln mit Excel.
 - **SAP S/4HANA** & Analysis for Office
 - **SAP BPC** (Business Planning and Consolidation)
 - **SQL** & **Power BI** *(in Lernphase)*
+- **IT-Affinität**
+- **SS und HTML-Kenntnisse**
 
 ## Sprachen
 
