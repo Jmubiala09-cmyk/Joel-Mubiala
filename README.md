@@ -1,5 +1,11 @@
+<div align="center">
+
+![Banner](./assets/banner.png)
+
 # Joel Mubiala Lubuma
 Portfolio Finance analyst, Controller
+
+</div>
 
 Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem Bachelor im Finanz- und Bankwesen aus dem Kongo habe ich meinen Weg in Deutschland fortgesetzt. von Deutschkursen an der Ruprecht-Karls-Universität Heidelberg  zum M.Sc. in Accounting and Finance an der Johannes-Gutenberg-Universität Mainz. Während meiner Ausbildung habe ich circa 2 Jahre Praxiserfahrung im Bereich Controlling/Finance gesammelt.
 
