@@ -60,7 +60,7 @@ Geschäftsführung;
 - 10/2013 – 09/2018
 	
  
-## Skills & Tools
+## Skills 
 
 **Finance / Controlling**
 
