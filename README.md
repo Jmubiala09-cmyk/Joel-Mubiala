@@ -82,6 +82,11 @@ Benutzung von komplexen Formeln mit Excel.
 -IT-Affinität;
 -CSS und HTML-Kenntnisse   
 
+- Microsoft Office (fortgeschritten, insbesondere **Excel**)
+- **SAP S/4HANA** & Analysis for Office
+- **SAP BPC** (Business Planning and Consolidation)
+- **SQL** & **Power BI** *(in Lernphase)*
+
 ## Sprachen
 
 - 🇫🇷 **Französisch** – Muttersprache
