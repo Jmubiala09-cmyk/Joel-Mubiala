@@ -90,6 +90,10 @@ Geschäftsführung;
 
 ## Abschlussarbeit
 
+# Commit et push
+git add CV_Joel_Mubiala.pdf
+git commit -m "docs: add CV PDF to portfolio"
+git push
 - **Masterarbeit** : strategisches HR-Controlling und Mitarbeiterwohlbefinden
 
 - **Bachelorarbeit : Apport des apports des assurances au développement socio-économique en RDC**
