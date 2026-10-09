@@ -12,7 +12,7 @@ Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzah
 ## Berufserfahrung
 
 Mitarbeiter im Scanzentrum – Oberfinanzamt BW, Karlsruhe (seit 07/2026)
-**Überbrückungstätigkeit nach dem Masterabschluss**
+- **Überbrückungstätigkeit nach dem Masterabschluss**
 
 **Praktikant im Controlling – S-Management Services**, **Stuttgart (04/2025 – 09/2025)**
 
