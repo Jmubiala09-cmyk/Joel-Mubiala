@@ -5,12 +5,16 @@ Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem
 
 Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzahlen analysieren, Forecasts rechnen und gemeinsam mit Fachabteilungen bessere Prozesse gestalten.
 
+## Projekten
+
+
+
 ## Berufserfahrung
 
 Mitarbeiter im Scanzentrum – Oberfinanzamt BW, Karlsruhe (seit 07/2026)
 Überbrückungstätigkeit nach dem Masterabschluss
 
-Praktikant im Controlling – S-Management Services, Stuttgart (04/2025 – 09/2025)
+**Praktikant im Controlling – S-Management Services**, **Stuttgart (04/2025 – 09/2025)**
 
 Erstellung und Analyse regelmäßiger Umsatz- und Sortimentsreports als Entscheidungsgrundlage 
 für das Management;
@@ -84,7 +88,7 @@ CSS und HTML-Kenntnisse
 – Deutsch – fließend
 – Englisch – gut
 
- Kontakt
+ ## Kontakt
 
 jomubiala09@gmail.com
     
