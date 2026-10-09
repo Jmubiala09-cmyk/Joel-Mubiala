@@ -91,8 +91,8 @@ Geschäftsführung;
 ## Abschlussarbeit
 
 # Commit et push
-git add CV_Joel_Mubiala.pdf
-git commit -m "docs: add CV PDF to portfolio"
+git add Masterarbeit-Mubiala Lubuma,Joel.pdf
+git commit -m "docs: add Masterarbeit-Mubiala Lubuma,Joel.pdf to portfolio"
 git push
 - **Masterarbeit** : strategisches HR-Controlling und Mitarbeiterwohlbefinden
 
