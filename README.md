@@ -90,8 +90,9 @@ Geschäftsführung;
 
 ## Abschlussarbeit
 
--**Masterarbeit** : strategisches HR-Controlling und Mitarbeiterwohlbefinden
- **Bachelorarbeit : Apport des apports des assurances au développement socio-économique en RDC**
+- **Masterarbeit** : strategisches HR-Controlling und Mitarbeiterwohlbefinden
+
+- **Bachelorarbeit : Apport des apports des assurances au développement socio-économique en RDC**
 
  ## Kontakt
 
