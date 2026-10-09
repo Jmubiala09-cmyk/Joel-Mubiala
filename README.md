@@ -84,9 +84,9 @@ CSS und HTML-Kenntnisse
 
 ## Sprachen
 
-– Französisch – Muttersprache
-– Deutsch – fließend
-– Englisch – gut
+- 🇫🇷 **Französisch** – Muttersprache
+- 🇩🇪 **Deutsch** – fließend
+- 🇬🇧 **Englisch** – gut
 
  ## Kontakt
 
