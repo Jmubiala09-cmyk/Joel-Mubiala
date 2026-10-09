@@ -36,6 +36,7 @@ Ausbildung
 Johannes-Gutenberg-Universität Mainz
 
 Abschluss : M.Sc. Accounting and Finance (Schwerpunkt: Finance & Controlling)
+
 Masterarbeit : strategisches HR-Controlling und Mitarbeiterwohlbefinden
 
 10/2022 – 03/2026
@@ -44,6 +45,7 @@ Masterarbeit : strategisches HR-Controlling und Mitarbeiterwohlbefinden
 Université de Lille (Auslandssemester)	
 
 Schwerpunkte: Controlling, Wirtschaftsprüfung
+
 09/2024 – 01/2025
 	
 
@@ -51,12 +53,14 @@ Schwerpunkte: Controlling, Wirtschaftsprüfung
 TU Kaiserslautern
 
 B.Sc. Betriebswirtschaftslehre (Vorkursen)
+
 04/2020 – 09/2022
 	
 
 Katholische Universität von Kongo
 
 B.Sc. Finanz- und Bankwesen
+
 Bachelorarbeit : Apport des apports des assurances au développement socio-économique en RDC
 
 10/2013 – 09/2018
