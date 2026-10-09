@@ -5,7 +5,7 @@ Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem
 
 Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzahlen analysieren, Forecasts rechnen und gemeinsam mit Fachabteilungen bessere Prozesse gestalten.
 
-Berufserfahrung
+## Berufserfahrung
 
 Mitarbeiter im Scanzentrum – Oberfinanzamt BW, Karlsruhe (seit 07/2026)
 Überbrückungstätigkeit nach dem Masterabschluss
@@ -25,15 +25,15 @@ Sparringspartner der Fachabteilungen
 Werkstudent im Accounting & Finance – Nord-Micro, Frankfurt am Main (03/2024 – 03/2025)
 
 Erstellung und Senden von Kundenrechnungen;
-#Unterstützung im Produktions- und Sales-Controlling;
+Unterstützung im Produktions- und Sales-Controlling;
 Bearbeitung von Mahnungen und Rechnungsklärung;
 Abgleich von eingehenden Bankzahlungen auf offene Rechnungen;
 Beilegung von Abrechnungsunstimmigkeiten mit Kunden;
 Erstellung von Reports und Analysen
 
-Ausbildung
+## Ausbildung
 	
-Johannes-Gutenberg-Universität Mainz
+** Johannes-Gutenberg-Universität Mainz
 Abschluss : M.Sc. Accounting and Finance (Schwerpunkt: Finance & Controlling)
 Masterarbeit : strategisches HR-Controlling und Mitarbeiterwohlbefinden
 10/2022 – 03/2026
@@ -56,7 +56,7 @@ Bachelorarbeit : Apport des apports des assurances au développement socio-écon
 10/2013 – 09/2018
 	
  
-Skills & Tools
+# # Skills & Tools
 
 Finance / Controlling
 
@@ -69,7 +69,7 @@ Darstellung und Analyse der Personalkennzahl;
 Betreuung eines Projektes;
 Benutzung von komplexen Formeln mit Excel.
 
-IT & Tools
+# # IT & Tools
 
 Microsoft Office (fortgeschritten, insbesondere Excel);
 SAP BW S/4HANA & Analysis for Office;
@@ -79,7 +79,7 @@ Trello;
 IT-Affinität;
 CSS und HTML-Kenntnisse   
 
-Sprachen
+# # Sprachen
 
 Französisch – Muttersprache
 Deutsch – fließend
