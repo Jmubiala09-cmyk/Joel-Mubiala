@@ -1,7 +1,3 @@
-<div align="center">
-
-![Banner](./assets/banner.png)
-
 # Joel Mubiala Lubuma
 Portfolio Finance analyst, Controller
 
