@@ -74,13 +74,13 @@ Benutzung von komplexen Formeln mit Excel.
 
 ## IT & Tools
 
-Microsoft Office (fortgeschritten, insbesondere Excel);
-SAP BW S/4HANA & Analysis for Office;
-SAP BPC (Business Planning and Consolidation);
-SQL & Power BI (in Lernphase)
-Trello;
-IT-Affinität;
-CSS und HTML-Kenntnisse   
+-Microsoft Office (fortgeschritten, insbesondere Excel);
+-SAP BW S/4HANA & Analysis for Office;
+-SAP BPC (Business Planning and Consolidation);
+-SQL & Power BI (in Lernphase)
+-Trello;
+-IT-Affinität;
+-CSS und HTML-Kenntnisse   
 
 ## Sprachen
 
