@@ -1,5 +1,5 @@
 # Joel Mubiala
-Portfolio_Finance, Controlling
+Portfolio Finance, Controlling
 
 Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem Bachelor im Finanz- und Bankwesen aus dem Kongo habe ich meinen Weg in Deutschland fortgesetzt. von Deutschkursen an der Ruprecht-Karls-Universität Heidelberg  zum M.Sc. in Accounting and Finance an der Johannes-Gutenberg-Universität Mainz.
 
@@ -12,13 +12,19 @@ Mitarbeiter im Scanzentrum – Oberfinanzamt BW, Karlsruhe (seit 07/2026)
 
 Praktikant im Controlling – S-Management Services, Stuttgart (04/2025 – 09/2025)
 
-    Erstellung und Analyse regelmäßiger Umsatz- und Sortimentsreports
+    Erstellung und Analyse regelmäßiger Umsatz- und Sortimentsreports als Entscheidungsgrundlage
+für das Management
 	
-    Unterstützung beim Monatsabschluss sowie Prozessoptimierung
+    Unterstützung beim Monatsabschluss sowie systematische Prozessoptimierung und
+Datenaufbereitung für die Fachabteilungen
+
+	Analyse von Liquiditätskennzahlen sowie Ableitung von Handlungsempfehlungen für die 
+Geschäftsführung
+
+    Unterstützung bei der Analyse von Personalkennzahlen
 	
-    Analyse von Personal- und Liquiditätskennzahlen
-	
-    Plan-Ist-Vergleiche, Ad-hoc-Analysen und Forecast-Berechnungen
+    Durchführung von Plan-Ist-Vergleichen, Ad-hoc-Analysen und Forecast-Berechnungen als
+Sparringspartner der Fachabteilungen
 
 Werkstudent im Accounting & Finance – Nord-Micro, Frankfurt am Main (03/2024 – 03/2025)
 
@@ -33,6 +39,9 @@ Ausbildung
 Johannes-Gutenberg-Universität Mainz
 
 Abschluss : M.Sc. Accounting and Finance (Schwerpunkt: Finance & Controlling)
+
+Masterarbeit :
+
 10/2022 – 03/2026
 	
 
@@ -49,9 +58,10 @@ B.Sc. Betriebswirtschaftslehre (Vorkursen)
 04/2020 – 09/2022
 	
 
-Katholische Universität von Kongo	
-B.Sc. Finanz- und Bankwesen
+Katholische Universität von Kongo
 
+B.Sc. Finanz- und Bankwesen
+Bachelorarbeit:
 10/2013 – 09/2018
 	
 
