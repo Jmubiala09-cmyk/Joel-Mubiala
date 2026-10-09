@@ -1,6 +1,6 @@
 # Joel Mubiala Lubuma
 
-Portfolio Finance analyst, Controller
+Portfolio Finance Analyst, Controller
 
 Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem Bachelor im Finanz- und Bankwesen aus dem Kongo habe ich meinen Weg in Deutschland fortgesetzt. von Deutschkursen an der Ruprecht-Karls-Universität Heidelberg  zum M.Sc. in Accounting and Finance an der Johannes-Gutenberg-Universität Mainz. Während meiner Ausbildung habe ich circa 2 Jahre Praxiserfahrung im Bereich Controlling/Finance gesammelt.
 
@@ -57,7 +57,7 @@ Geschäftsführung;
 	
 	
 **TU Kaiserslautern**
-- B.Sc. Betriebswirtschaftslehre (Vorkursen)
+- B.Sc. Betriebswirtschaftslehre (Vorkurse)
 - 04/2020 – 09/2022
 	
 
@@ -87,7 +87,7 @@ Geschäftsführung;
 - **SAP BPC** (Business Planning and Consolidation)
 - **SQL** & **Power BI** *(in Lernphase)*
 - **IT-Affinität**
-- **SS und HTML-Kenntnisse**
+- **CSS und HTML-Kenntnisse**
 
 ## Sprachen
 
@@ -98,9 +98,9 @@ Geschäftsführung;
 ## Abschlussarbeit
 
 
-- **Masterarbeit** : strategisches HR-Controlling und Mitarbeiterwohlbefinden
+- **Masterarbeit** : Strategisches HR-Controlling und Mitarbeiterwohlbefinden
 
-- **Bachelorarbeit : Apport des apports des assurances au développement socio-économique en RDC**
+- **Bachelorarbeit** : Apport des assurances au développement socio-économique en RDC
 
  ## Kontakt
 
