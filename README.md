@@ -64,13 +64,13 @@ B.Sc. Finanz- und Bankwesen
 **Finance / Controlling**
 
 - **Erstellung vom Umsatz-, Sortiments- und Personalreports**
-Erstellung  Forecast-Berechnungen;
-Darstellung und Analyse des Liquiditätsverlaufs; 
-Erstellung Plan-Ist-Vergleiche und Kommentierung;
-Berichtsautomatisierung anhand von SAP und Excel;
-Darstellung und Analyse der Personalkennzahl;
-Betreuung eines Projektes;
-Benutzung von komplexen Formeln mit Excel.
+- **Erstellung von Forecast-Berechnungen**; 
+- **Darstellung und Analyse des Liquiditätsverlaufs**; 
+- **Erstellung von Plan-Ist-Vergleichen und Kommentierung**;
+- **Berichtsautomatisierung anhand von SAP und Excel**;
+- **Darstellung und Analyse der Personalkennzahlen**;
+- **Betreuung eines Projekts**;
+- **Benutzung von komplexen Formeln mit Excel**.
 
 ## IT & Tools
 
