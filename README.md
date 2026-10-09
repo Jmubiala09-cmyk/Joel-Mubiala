@@ -23,7 +23,9 @@ Praktikant im Controlling – S-Management Services, Stuttgart (04/2025 – 09/2
 Werkstudent im Accounting & Finance – Nord-Micro, Frankfurt am Main (03/2024 – 03/2025)
 
     Unterstützung im Produktions- und Sales-Controlling
+	
     Bearbeitung von Mahnungen und Rechnungsklärung
+	
     Erstellung von Reports und Analysen
 
 Ausbildung
@@ -73,12 +75,12 @@ IT & Tools
 
 Sprachen
 
-    🇫🇷 Französisch – Muttersprache
-    🇩🇪 Deutsch – fließend
-    🇬🇧 Englisch – gut
+     Französisch – Muttersprache
+     Deutsch – fließend
+     Englisch – gut
 
-📫 Kontakt
+ Kontakt
 
-    📧 jomubiala09@gmail.com
-    📱 +49 176 4332 1588
-    📍 Kaiserstr. 39, 76131 Karlsruhe
+     jomubiala09@gmail.com
+    
+     
