@@ -4,3 +4,4 @@ Description : "Portfolio Finance Analyst / Controller "
 show_download: true
 Theme: jekyll-theme-cayman
 Lang: de
+baseurl: ""
