@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](blob/main/Img/Banner.png)
+![Banner](/Img/Banner.png)
 
 </div>
 
