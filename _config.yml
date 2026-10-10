@@ -4,3 +4,5 @@ description: Finance Analyst, Controller & Data Enthusiast
 show_download: true
 theme: jekyll-theme-cayman
 lang: de
+github:  
+  is_project_page: false
