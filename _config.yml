@@ -1,7 +1,6 @@
-title: "Joel Mubiala"
-logo: "Img/Banner.png"
-Description : "Portfolio Finance Analyst / Controller "
+title: Joel Mubiala
+logo: Img/Banner.png
+description: Portfolio Finance Analyst / Controller
 show_download: true
-Theme: jekyll-theme-cayman
-Lang: de
-baseurl: ""
+theme: jekyll-theme-cayman
+lang: de
