@@ -8,7 +8,7 @@ Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem
 
 Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzahlen analysieren, Forecasts rechnen und gemeinsam mit Fachabteilungen bessere Prozesse gestalten.
 
-## Projekten
+## Projekte
 
 
 - Projekt 1 :
