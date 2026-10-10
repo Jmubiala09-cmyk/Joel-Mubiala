@@ -27,6 +27,11 @@ Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzah
 - 🇩🇪 Deutsch – fließend
 - 🇬🇧 Englisch – gut
 
+
+
+**Sie finden weitere Informationen in meinem [Lebenslauf](cv.md).**
+
+
 ## Kontakt
 
 jomubiala09@gmail.com
