@@ -1,8 +1,5 @@
-<div align="center">
 
 ![Banner](https://raw.githubusercontent.com/Jmubiala09-cmyk/Joel-Mubiala/refs/heads/main/Img/Banner.png)
-
-</div>
 
 ---
 
