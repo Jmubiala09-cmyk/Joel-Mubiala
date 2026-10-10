@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](/Img/Banner.png)
+![Banner](https://raw.githubusercontent.com/Jmubiala09-cmyk/Joel-Mubiala/refs/heads/main/Img/Banner.png)
 
 </div>
 
