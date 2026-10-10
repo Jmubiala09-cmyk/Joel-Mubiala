@@ -1,8 +1,4 @@
 
-![Banner](https://raw.githubusercontent.com/Jmubiala09-cmyk/Joel-Mubiala/refs/heads/main/Img/Banner.png)
-
----
-
 Finance- und Controlling-Enthusiast mit internationalem Hintergrund. Nach meinem Bachelor im Finanz- und Bankwesen aus dem Kongo habe ich meinen Weg in Deutschland fortgesetzt. von Deutschkursen an der Ruprecht-Karls-Universität Heidelberg  zum M.Sc. in Accounting and Finance an der Johannes-Gutenberg-Universität Mainz. Während meiner Ausbildung habe ich circa 2 Jahre Praxiserfahrung im Bereich Controlling/Finance gesammelt.
 
 Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzahlen analysieren, Forecasts rechnen und gemeinsam mit Fachabteilungen bessere Prozesse gestalten.
