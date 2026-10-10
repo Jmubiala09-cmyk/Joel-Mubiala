@@ -11,11 +11,8 @@ Ich liebe es, Zahlen in Entscheidungen zu verwandeln: Reports erstellen, Kennzah
 ## Projekte
 
 
-- Projekt 1 :
+- Projekt 1 : xxx
 
-layout: default
-title: Berufserfahrung
-permalink: /Berufserfahrung.html
 
 ## Berufserfahrung
 
