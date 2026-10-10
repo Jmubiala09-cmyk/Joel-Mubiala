@@ -64,20 +64,6 @@ Geschäftsführung;
 - **Betreuung eines Projekts**;
 - **Benutzung von komplexen Formeln mit Excel**.
 
-## IT & Tools
-
-- Microsoft Office (fortgeschritten, insbesondere **Excel**)
-- **SAP S/4HANA** & Analysis for Office
-- **SAP BPC** (Business Planning and Consolidation)
-- **SQL** & **Power BI** *(in Lernphase)*
-- **IT-Affinität**
-- **CSS und HTML-Kenntnisse**
-
-## Sprachen
-
-- **Französisch** – Muttersprache
-- **Deutsch** – fließend
-- **Englisch** – gut
 
 ## Abschlussarbeit
 
@@ -87,8 +73,6 @@ Geschäftsführung;
 
 - **Bachelorarbeit** : Apport des assurances au développement socio-économique en RDC
 
-## Kontakt
 
-jomubiala09@gmail.com
     
      
