@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](Img/Banner.png)
+![Banner](blob/main/Img/Banner.png)
 
 </div>
 
@@ -104,7 +104,7 @@ Geschäftsführung;
 
 - **Bachelorarbeit** : Apport des assurances au développement socio-économique en RDC
 
- # Kontakt
+## Kontakt
 
 jomubiala09@gmail.com
     
