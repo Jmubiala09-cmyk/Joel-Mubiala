@@ -93,7 +93,7 @@ Geschäftsführung;
 
 
 - **Masterarbeit** : Strategisches HR-Controlling und Mitarbeiterwohlbefinden
-[ **PDF herunterladen**](https://drive.google.com/drive/u/0/home?ths=true)
+[ **PDF herunterladen**](https://drive.google.com/file/d/1aC79l5bOGhEtcTJyOZ-VVDdpvGRE6KJJ/view?usp=drive_link)
 
 - **Bachelorarbeit** : Apport des assurances au développement socio-économique en RDC
 
