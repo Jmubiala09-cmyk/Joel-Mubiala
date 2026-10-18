@@ -1,3 +1,8 @@
+<p align="center">
+<img src="./Img/IMG_1727.jpeg" alt="Joel Mubiala" width="160"
+       style="border-radius:50%; border:3px solid #FFD700; object-fit:cover;" />
+</p>
+
 
 ## Berufserfahrung
 
